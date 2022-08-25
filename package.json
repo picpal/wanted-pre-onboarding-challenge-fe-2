@@ -1,0 +1,26 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "프리온보딩 프론트엔드 챌린지 2차",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "kimsugeun",
+  "license": "ISC",
+  "bugs": {
+		"url": "https://github.com/picpal/wanted-pre-onboarding-challenge-fe-2/issues"
+	},
+  "devDependencies": {
+    "jsdoc": "^3.6.11",
+    "lite-server": "^2.6.1",
+    "ts-loader": "^9.3.1",
+    "typescript": "^4.7.4"
+  },
+  "homepage": "https://github.com/picpal/wanted-pre-onboarding-challenge-fe-2"
+}
